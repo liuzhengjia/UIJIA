@@ -2,7 +2,7 @@
 卡片组件
 
 ### 示例
-<m-card imgSrc="/logo.png" summary="概要" />
+<m-card imgSrc="/UIJIA/logo.png" summary="概要" />
 
 ### 代码
 ```html
